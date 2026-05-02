@@ -1,5 +1,7 @@
 # FATExDEX Info
 
+> Personal archive fork by Sage / 0SxD. See ARCHIVE_NOTICE.md for prior-associations disclaimer and current research continuity.
+
 [![Lint](https://github.com/FATEx-DAO/fatex-dex-info/workflows/Lint/badge.svg)](https://github.com/FATEx-DAO/fatex-dex-info/actions?query=workflow%3ALint)
 [![Deploy](https://github.com/FATEx-DAO/fatex-dex-info/workflows/Deploy/badge.svg)](https://github.com/FATEx-DAO/fatex-dex-info/actions?query=workflow%3ADeploy)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
